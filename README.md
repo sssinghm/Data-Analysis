@@ -2,9 +2,11 @@
 This project explores key economic indicators across South Asian countries over the period 2000–2020. The workflow includes end-to-end data analysis, visualization, and dashboard creation, providing insights into trends and development patterns in the region.
 
 ## Key Features
-### Dataset: World Bank Development Indicators (filtered for 10 South Asian countries)
+### Dataset:
+World Bank Development Indicators (filtered for 10 South Asian countries)
 
-### Data Cleaning: Reshaping, filtering for relevant years, and handling missing values
+### Data Cleaning:
+Reshaping, filtering for relevant years, and handling missing values
 
 ### EDA:
 
